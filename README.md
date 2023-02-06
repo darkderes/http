@@ -1,5 +1,3 @@
-# Webpack configurado
+# Codigo ed ejemplos de consumir Apis en Javascript
 
-Para usar este repositorio, deberán ejecutar el comando de ```npm install```
-
-Pero esto lo veremos en la siguiente sección
+Curso de Fernando Herrera
